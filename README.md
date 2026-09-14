@@ -11,8 +11,8 @@ A multivariate statistical process control (SPC) and machine learning pipeline t
 
 | Member | Role |
 |---|---|
-| Uday Ranode | Data Pre-Processing & Time Series Analysis & Predictive Modelling |
-| Utkarsh Sharma | Multivariate SPC |
+| Uday Ranode | Data Pre-Processing  & Predictive Modelling |
+| Utkarsh Sharma | Time Series Analysis & Multivariate SPC |
 
 
 ---
