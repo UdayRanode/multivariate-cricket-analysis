@@ -162,7 +162,20 @@ catboost
 matplotlib
 seaborn
 ```
+## Project Highlights
 
+- Developed a machine learning pipeline to predict cricket players' fantasy points using historical performance and match-context data.
+- Applied Principal Component Analysis (PCA) and Partial Least Squares (PLS) with Variable Importance in Projection (VIP) for dimensionality reduction and feature selection.
+- Compared KNN, Ridge Regression, PLS Regression, and Artificial Neural Networks to identify the best-performing predictive model.
+- Achieved an R² score of 0.937 using Ridge Regression on the reported evaluation results.
+- Used predicted fantasy points to rank players and generate an optimized Dream XI.
+
+## Tech Stack
+
+**Languages:** Python  
+**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib  
+**Techniques:** PCA, PLS, VIP Feature Selection, Ridge Regression, Neural Networks, Time-Series Cross-Validation  
+**Application:** Cricket Analytics and Fantasy Team Optimization
 ---
 
 ## Known Issues
